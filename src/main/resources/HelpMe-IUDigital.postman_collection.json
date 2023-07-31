@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "3a57f3e3-84ee-4fcf-8f90-b8a0fea41608",
+		"name": "HelpMe-IUDigital",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "18548897",
+		"_collection_link": "https://lunar-crater-869419.postman.co/workspace/My-Workspace~2f39c534-1f37-484e-8f61-92b47f40e134/collection/18548897-3a57f3e3-84ee-4fcf-8f90-b8a0fea41608?action=share&creator=18548897&source=collection_link"
+	},
+	"item": [
+		{
+			"name": "ConsultarDelitos",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
